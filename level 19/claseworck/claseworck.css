@@ -1,0 +1,46 @@
+body {
+    background: #222;
+    font-family: Arial, sans-serif;
+}
+header {
+    background: orange;
+    color: white;
+    padding: 16px;
+    font-size: 2em;
+    text-align: center;
+    margin-bottom: 8px;
+    border-radius: 4px 4px 0 0;
+}
+main {
+    background: #4aa3ff;
+    padding: 16px;
+    margin-bottom: 8px;
+}
+article {
+    background: #bdbdbd;
+    padding: 16px;
+    font-size: 1.5em;
+    border-radius: 8px;
+}
+section {
+    margin-left: 24px;
+    margin-top: 8px;
+    font-size: 1em;
+    color: white;
+    font-weight: bold;
+}
+footer {
+    background: #a259e6;
+    color: white;
+    padding: 16px;
+    text-align: center;
+    font-size: 1.5em;
+    border-radius: 0 0 8px 8px;
+}
+.blog-post-1 {
+    text-align: center;
+    color: white;
+    padding: 16px;
+    margin-bottom: 8px;
+    border-radius: 8px;
+}

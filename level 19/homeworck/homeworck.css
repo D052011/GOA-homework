@@ -1,0 +1,27 @@
+p {
+    color: blue;
+    background-color: #f0e68c;
+    font-size: 22px;
+}
+h1 {
+    color: darkgreen;
+    font-size: 36px;
+}
+div {
+    background-color: #e0ffff;
+    padding: 15px;
+    border-radius: 10px;
+}
+span {
+    color: crimson;
+    font-weight: bold;
+}
+a {
+    display: inline-block;
+    margin-top: 20px;
+    color: white;
+    background-color: #0074D9;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+}

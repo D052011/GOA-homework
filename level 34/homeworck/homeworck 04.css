@@ -1,0 +1,14 @@
+    .container {
+      display: flex; /* Flex კონტეინერი */
+      justify-content: center; /* ელემენტები ჰორიზონტალურად ცენტრში */
+      background-color: #f0f0f0;
+      padding: 20px;
+    }
+
+    .container p {
+      background-color: #4caf50;
+      color: white;
+      padding: 15px;
+      margin: 0 10px;
+      border-radius: 5px;
+    }

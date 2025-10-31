@@ -1,0 +1,16 @@
+    button {
+      background-color: gray; /* ნორმალური */
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: blue; /* hover */
+    }
+
+    button:active {
+      background-color: green; /* active */
+    }

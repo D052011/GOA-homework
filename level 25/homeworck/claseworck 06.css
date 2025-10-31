@@ -1,0 +1,6 @@
+.important {
+      color: white; /* ტექსტის ფერი */
+      background-color: darkred; /* ფონის ფერი */
+      padding: 10px;
+      border-radius: 5px;
+    }

@@ -1,0 +1,1 @@
+data_list = [42, "Hello", 3.14, True, None, ["nested", "list"], {"key": "value"}]

@@ -1,0 +1,12 @@
+    a.link1 {
+      color: green; /* ნორმალური ფერი */
+      text-decoration: none;
+    }
+
+    a.link1:hover {
+      color: yellow; /* მაუსის მიყვანისას */
+    }
+
+    a.link1:active {
+      color: red; /* დაჭერისას */
+    }

@@ -1,0 +1,17 @@
+    a {
+      background-color: black;
+      color: red;
+      text-decoration: none;
+      padding: 10px 20px;
+      display: inline-block;
+    }
+
+
+    a:hover {
+      color: blue;
+    }
+
+
+    a:active {
+      color: green;
+    }

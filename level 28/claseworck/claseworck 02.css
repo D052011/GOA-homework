@@ -1,0 +1,28 @@
+body {
+      background-color: #f0f0f0; /* HEX ფერი ფონისთვის */
+      font-family: Arial, sans-serif;
+      padding: 30px;
+    }
+
+    h1 {
+      color: rgb(0, 128, 0); /* მწვანე ტექსტი RGB ფორმატით */
+    }
+
+    p {
+      color: blue; /* ტექსტის ფერი – ჩვეულებრივი სახელი */
+      background-color: #ffffcc; /* HEX ფონი */
+      padding: 10px;
+      border-radius: 5px;
+    }
+
+    .highlight {
+      background-color: rgb(255, 200, 200); /* RGB ფონი */
+      color: #660000; /* HEX ტექსტის ფერი */
+      padding: 10px;
+      margin-top: 20px;
+      border-left: 5px solid red;
+    }
+
+
+
+    
